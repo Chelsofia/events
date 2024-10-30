@@ -1,6 +1,6 @@
 import React from "react";
 
-const TextSection = () => {
+const Text = () => {
   return (
     <div className="flex flex-col md:flex-row justify-between py-24">
       
@@ -24,4 +24,4 @@ const TextSection = () => {
   );
 };
 
-export default TextSection;
+export default Text;
